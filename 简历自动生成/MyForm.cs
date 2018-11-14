@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace 简历自动生成
 {
-    public partial class Form1 : Form
+    public partial class MyForm : Form
     {
-        public Form1()
+        public MyForm()
         {
             InitializeComponent();
         }

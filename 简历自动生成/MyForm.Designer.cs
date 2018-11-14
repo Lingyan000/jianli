@@ -1,6 +1,6 @@
 ﻿namespace 简历自动生成
 {
-    partial class Form1
+    partial class MyForm
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -78,7 +78,7 @@
             treeNode24,
             treeNode25,
             treeNode26});
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MyForm));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -264,7 +264,7 @@
             this.tabPageJbxx.Controls.Add(this.label1);
             this.tabPageJbxx.Location = new System.Drawing.Point(4, 28);
             this.tabPageJbxx.Name = "tabPageJbxx";
-            this.tabPageJbxx.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tabPageJbxx.Padding = new System.Windows.Forms.Padding(3);
             this.tabPageJbxx.Size = new System.Drawing.Size(781, 549);
             this.tabPageJbxx.TabIndex = 0;
             this.tabPageJbxx.Text = "基本信息";
@@ -541,7 +541,7 @@
             this.tabPageGrjl.Controls.Add(this.groupBox1);
             this.tabPageGrjl.Location = new System.Drawing.Point(4, 28);
             this.tabPageGrjl.Name = "tabPageGrjl";
-            this.tabPageGrjl.Padding = new System.Windows.Forms.Padding(3, 3, 3, 3);
+            this.tabPageGrjl.Padding = new System.Windows.Forms.Padding(3);
             this.tabPageGrjl.Size = new System.Drawing.Size(781, 549);
             this.tabPageGrjl.TabIndex = 1;
             this.tabPageGrjl.Text = "个人经历";
@@ -743,7 +743,7 @@
             this.trackQxyq.Minimum = 1000;
             this.trackQxyq.Name = "trackQxyq";
             this.trackQxyq.Orientation = System.Windows.Forms.Orientation.Vertical;
-            this.trackQxyq.Size = new System.Drawing.Size(42, 164);
+            this.trackQxyq.Size = new System.Drawing.Size(45, 164);
             this.trackQxyq.SmallChange = 500;
             this.trackQxyq.TabIndex = 6;
             this.trackQxyq.Tag = "";
